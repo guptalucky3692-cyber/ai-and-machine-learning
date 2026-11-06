@@ -885,3 +885,24 @@ Install the package's own requirements.txt, which builds SAM2 and takes several 
 ```bash
 pip install -r requirements.txt
 ```
+{
+  "name": "rea",
+  "interface": {
+    "displayName": "REA"
+  },
+  "plugins": [
+    {
+      "name": "rea",
+      "source": {
+        "source": "npm",
+        "package": "rea-agents",
+        "version": "6.8.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
