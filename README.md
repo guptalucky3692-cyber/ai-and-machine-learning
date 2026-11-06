@@ -1,6 +1,10 @@
 # ai-and-machine-learning
 Complete AI &amp; Machine Learning course with strong Mathematical Foundations 🤖📚. Covers Calculus, Linear Algebra, Probability, Statistics, Optimization, and essential AI/ML concepts. Includes algorithms, model training, evaluation, practical implementations, hands-on exercises, and real-world projects from fundamentals to advanced topics.
 <div align="center">
+<div align="center">
+
+  <!-- Pipeline Banner -->
+  <img src="
 
   <!-- Header Banner -->
   <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/header-banner.png" alt="Anime AI Banner" width="100%" />
@@ -120,3 +124,8 @@ class MLEngineer:
 [LOSS] CrossEntropyLoss: 0.0012 | val_loss: 0.0018
 [METRIC] Target Accuracy: 99.8% Reached! 🚀
 [STATUS] Model weights saved. Ready for inference.
+
+<div align="center">
+
+  <!-- Pipeline Banner -->
+  <img src="
